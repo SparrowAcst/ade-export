@@ -4,7 +4,7 @@ const winston = require("winston")
 const path = require("path")
 const moment = require("moment")
 
-const config = require("./config")(path.resolve(`./config.json`))
+const config = require("./config")(path.resolve(`./src/config.json`))
 
 const format = winston.format.combine(
     winston.format.timestamp(),
