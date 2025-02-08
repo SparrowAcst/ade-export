@@ -10,7 +10,7 @@ const { uploadFromStream } = require("./s3-bucket")
 
 const JSONL = require("./jsonl")
 
-const docdb = require("./docdb")("TEST")
+const docdb = require("./docdb")("ADE")
 
 // const WORK_DIR = "../EXPORT"
 // const config = require("./config")(path.resolve(`${WORK_DIR}/config.json`))
