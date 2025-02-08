@@ -1,0 +1,17 @@
+{
+ "bufferSize": 1000,
+ "log": {
+  "files": 10,
+  "dir": "../EXPORT/log"
+ },
+ "previusVersion": {
+  "dir": "../EXPORT/v1"
+ },
+ "currentVersion": {
+  "dir": "../EXPORT/v2"
+ },
+ "result": {
+  "dir": "../EXPORT/RES"
+ },
+ "dateStamp": "2025-02-08_21_16_41"
+}

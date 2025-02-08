@@ -4,8 +4,7 @@ const winston = require("winston")
 const path = require("path")
 const moment = require("moment")
 
-const WORK_DIR = "../EXPORT"
-const config = require("./config")(path.resolve(`${WORK_DIR}/config.json`))
+const config = require("./config")(path.resolve(`./config.json`))
 
 const format = winston.format.combine(
     winston.format.timestamp(),

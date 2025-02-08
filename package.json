@@ -2,7 +2,9 @@
   "name": "ade-export",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "export-test": "node ./src/export-test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SparrowAcst/validation.git"
