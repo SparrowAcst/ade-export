@@ -5,13 +5,13 @@
   "dir": "../EXPORT/log"
  },
  "previusVersion": {
-  "dir": "../EXPORT/v1"
+  "dir": "../EXPORT/v2"
  },
  "currentVersion": {
-  "dir": "../EXPORT/v2"
+  "dir": "../EXPORT/v1"
  },
  "result": {
   "dir": "../EXPORT/RES"
  },
- "dateStamp": "2025-02-08_21_16_41"
+ "dateStamp": "2025-02-09_13_31_13"
 }
