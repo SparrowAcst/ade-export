@@ -5,7 +5,7 @@
   "scripts": {
     "export-test_multi_device": "node ./src/export-test_multi_device",
     "export-test_multi_device_v3_4": "node ./src/export-test_multi_device_v3_4",
-    "export-validation_multi_device_v3_4": "node ./src/export-validation_multi_device_v3_4"
+    "export-train_multi_device_v3_4": "node ./src/export-train_multi_device_v3_4"
     
   },
   "repository": {

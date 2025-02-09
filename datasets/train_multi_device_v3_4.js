@@ -48,7 +48,7 @@ const pipeline = [{
 ]
 
 module.exports = {
-    alias: "validation_multi_device_v3_4",
+    alias: "train_multi_device_v3_4",
     commands: [{
             schema: "harvest1",
             collection,
