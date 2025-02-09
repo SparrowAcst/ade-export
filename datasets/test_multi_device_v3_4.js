@@ -48,7 +48,7 @@ const pipeline = [{
 ]
 
 module.exports = {
-    alias: "test-dataset",
+    alias: "test_multi_device_v3_4",
     commands: [{
             schema: "strazhesko-part-1",
             collection,
