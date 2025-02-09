@@ -225,7 +225,7 @@ const processDataset = async (config, options) => {
     }
 
     await mergeFiles(options)
-    // await upload(options)
+    await upload(options)
     
     config.extend({
       previusVersion: config.get("currentVersion"),
