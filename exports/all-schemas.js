@@ -57,7 +57,8 @@ const schemas = [
     "phisionet",
     "phonendo",
     "vinil",
-    "vintage"
+    "vintage",
+    "yoda"
 ]
 
 module.exports = {
