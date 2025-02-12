@@ -1,21 +1,21 @@
 const collection = "labels"
 const pipeline = [{
-        $match: {
-            // state: "Finalized",
-            "Body Spot": {
-                $in: [
-                    "Tricuspid",
-                    "Erb's",
-                    "Aortic",
-                    "Right carotid",
-                    "Pulmonic",
-                    "Right Carotid",
-                    "Erb's Right",
-                    "Apex",
-                ],
-            }
-        },
-    },
+    //     $match: {
+    //         // state: "Finalized",
+    //         "Body Spot": {
+    //             $in: [
+    //                 "Tricuspid",
+    //                 "Erb's",
+    //                 "Aortic",
+    //                 "Right carotid",
+    //                 "Pulmonic",
+    //                 "Right Carotid",
+    //                 "Erb's Right",
+    //                 "Apex",
+    //             ],
+    //         }
+    //     },
+    // },
     // {
     //     $limit: 5
     // },
