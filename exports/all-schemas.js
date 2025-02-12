@@ -1,5 +1,6 @@
 const collection = "labels"
-const pipeline = [{
+const pipeline = [
+    // {
     //     $match: {
     //         // state: "Finalized",
     //         "Body Spot": {
